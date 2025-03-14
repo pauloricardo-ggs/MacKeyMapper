@@ -1,5 +1,7 @@
 # MacKeyMapper 🖥️⌨️
 
+> 🔗 To read this README in English, click here: [Readme.en.md](Readme.en.md).
+
 **MacKeyMapper** é um script AutoHotkey (AHK) para Windows que remapeia teclas para criar uma experiência de atalhos similar ao macOS. 
 
 Se você está acostumado com o **Command (⌘)** no macOS e sente falta dessa funcionalidade no Windows, este script ajudará a tornar a transição mais intuitiva.
