@@ -35,6 +35,9 @@ LCtrl::LWin
 ^Del:: Send("{Shift Down}{End}{Shift Up}{Backspace}")
 ^Backspace:: Send("{Shift Down}{Home}{Shift Up}{Backspace}")
 
+!Del:: Send("{Shift Down}^{Right}{Shift Up}{Backspace}")
+!Backspace:: Send("{Shift Down}^{Left}{Shift Up}{Backspace}")
+
 global alt_tab_active := false
 
 ; ==========================================================
