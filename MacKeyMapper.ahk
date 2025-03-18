@@ -167,4 +167,6 @@ Backspace:: {
     Send("{Backspace}")
 }
 
+Space:: Send("^{Space}")
+
 #HotIf
