@@ -155,7 +155,7 @@ Down:: Send("^{Down}")
 +Up:: Send("^+{Up}")
 +Down:: Send("^+{Down}")
 
-+Esc:: Send("^+Esc")
++Esc:: Send("^+{Esc}")
 
 Del:: {
     Send("+{End}")
