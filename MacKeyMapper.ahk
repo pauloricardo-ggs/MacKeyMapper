@@ -144,6 +144,7 @@ z:: Send("^z")
 
 -:: Send("^-")
 =:: Send("^=")
+.:: Send("^.")
 
 Left:: Send("{Home}")
 Right:: Send("{End}")
